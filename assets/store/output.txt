@@ -1,0 +1,295 @@
+|__server
+|   |__.git
+|   |   |__COMMIT_EDITMSG
+|   |   |__config
+|   |   |__description
+|   |   |__HEAD
+|   |   |__hooks
+|   |   |   |__applypatch-msg.sample
+|   |   |   |__commit-msg.sample
+|   |   |   |__fsmonitor-watchman.sample
+|   |   |   |__post-update.sample
+|   |   |   |__pre-applypatch.sample
+|   |   |   |__pre-commit.sample
+|   |   |   |__pre-merge-commit.sample
+|   |   |   |__pre-push.sample
+|   |   |   |__pre-rebase.sample
+|   |   |   |__pre-receive.sample
+|   |   |   |__prepare-commit-msg.sample
+|   |   |   |__push-to-checkout.sample
+|   |   |   |__sendemail-validate.sample
+|   |   |   |__update.sample
+|   |   |__index
+|   |   |__info
+|   |   |   |__exclude
+|   |   |__logs
+|   |   |   |__HEAD
+|   |   |   |__refs
+|   |   |   |   |__heads
+|   |   |   |   |   |__master
+|   |   |__objects
+|   |   |   |__01
+|   |   |   |   |__48f6f7895fede2b06d17ba0313e26cf577df07
+|   |   |   |__08
+|   |   |   |   |__76742c6d2bfbcadc4d9d2926ef1970dc091f07
+|   |   |   |   |__dd901d8ba8bdf77e764a46d80b82e790afbfb6
+|   |   |   |   |__ebbadab82aef3ec181837e71b93be8d613aaaa
+|   |   |   |   |__fc9142f9db464674cbec7b3945ec470418cf46
+|   |   |   |__0a
+|   |   |   |   |__47f79a191868f19a7040e3a9ab4921f517a02d
+|   |   |   |__0e
+|   |   |   |   |__72a91149664ddab9fddf0f6b38461dca86939e
+|   |   |   |__14
+|   |   |   |   |__045c8a1d5d633073986e32f1d724d269a1a832
+|   |   |   |__1a
+|   |   |   |   |__f270f7677f7254d8fb700613ce286ced8f21c2
+|   |   |   |__1c
+|   |   |   |   |__0d10c4471c4e415c2bb6e8245d7b48536f4d3b
+|   |   |   |__21
+|   |   |   |   |__bd612a4a5a43c1ab31dfb448c1af0a125ee103
+|   |   |   |__27
+|   |   |   |   |__7d753284d73ba5ed1b78afb2107fd04be0c726
+|   |   |   |__2a
+|   |   |   |   |__fa4404a19b6148684d690bcf260ddfa5d26b18
+|   |   |   |__32
+|   |   |   |   |__ecff9b61306b1b342de928110238c0bef07474
+|   |   |   |__36
+|   |   |   |   |__5578cd21ca42ce575e8775d8a3c5e2a55c2bf4
+|   |   |   |__39
+|   |   |   |   |__de5b595d5b9d70e8f2c55eae78d87f2c45ba0c
+|   |   |   |__3f
+|   |   |   |   |__741f59f33bc34c944397480ed996b8b3e50ea0
+|   |   |   |__48
+|   |   |   |   |__1ce302c1f9fd1a10a89b1778fff2b7ed5206eb
+|   |   |   |__4f
+|   |   |   |   |__94a2acae4f4482037af2b08a763b98bc9b47b9
+|   |   |   |__50
+|   |   |   |   |__86aa6bbda5ddd3a770772923efd136eb8dc7ee
+|   |   |   |__54
+|   |   |   |   |__9e00a2a96fa9d7c5dbc9859664a78d980158c2
+|   |   |   |__58
+|   |   |   |   |__75d048907cbcf490b475b5d272ad78e6309edb
+|   |   |   |__5b
+|   |   |   |   |__43b9680b3f87f119a0416d5b575c56cbf2988a
+|   |   |   |__5d
+|   |   |   |   |__64b26e785ef31245d480086ee7cd898b023df2
+|   |   |   |__5f
+|   |   |   |   |__0536eb74343e6e1e0aa69e3aacbc51e015f97e
+|   |   |   |   |__f87f528f001ad7b98a37e12aa6ff6cbec793f5
+|   |   |   |__64
+|   |   |   |   |__30afdb07d32820fe177f168c33e7d129ce2f1c
+|   |   |   |__66
+|   |   |   |   |__df2854281f4cb6869e4830dd1a7abd1e946c18
+|   |   |   |__6a
+|   |   |   |   |__69e961f1229dcc0d4050cfcc394c7caf250649
+|   |   |   |__6c
+|   |   |   |   |__43d482aa092df851ea647b641e43473ce0b106
+|   |   |   |__79
+|   |   |   |   |__49eeeba6f41d2e396312a9b9bfd68734e0b042
+|   |   |   |   |__9742fc122dc54579403aa4bec71757270c36d3
+|   |   |   |__81
+|   |   |   |   |__a2312dad183a28bdf0b18ef0bdba88466e95d7
+|   |   |   |__86
+|   |   |   |   |__3c21a0ad89a0eadf44ea05c44c4fea6e0c9a93
+|   |   |   |__87
+|   |   |   |   |__8ecb4ad07ea29858e71f7064c496f89f084dd8
+|   |   |   |__89
+|   |   |   |   |__5d30624d40524bc0aa924cc4d4300a68a36b13
+|   |   |   |__8a
+|   |   |   |   |__5d1a3be1e0df2e50339f4004e113d406075f16
+|   |   |   |__92
+|   |   |   |   |__856b84049aff579be5cf3abf64503ea9aefa6c
+|   |   |   |   |__ebe1b54ab3d9ed6d38851fb91186e6d25009ab
+|   |   |   |__93
+|   |   |   |   |__7d0a8df6f77359a3d88a335a025f9a95a502ec
+|   |   |   |__95
+|   |   |   |   |__ba6f54ac526de46248af840bab26f33f946b93
+|   |   |   |__97
+|   |   |   |   |__28aa7612874f2c562faa1c84be74286d881d0d
+|   |   |   |__99
+|   |   |   |   |__7835c8b64b3bccd77bb12d2b706439299ac522
+|   |   |   |__a2
+|   |   |   |   |__36d327076acc08963af431edc088f0121a4b42
+|   |   |   |__ab
+|   |   |   |   |__4d02125650c79af5ab1947e1ae9ab7c957c91c
+|   |   |   |__b2
+|   |   |   |   |__a2551f475c7e5108f059d74451d0a767e807b9
+|   |   |   |__bd
+|   |   |   |   |__08303a3526e6d6b80bbcc48ab6bf54fb121c77
+|   |   |   |__bf
+|   |   |   |   |__2aab90b0a5a0603c1547017f55af55e5f8dd89
+|   |   |   |__c3
+|   |   |   |   |__80984f3440096324d430dec5082b7efcad932b
+|   |   |   |__c5
+|   |   |   |   |__1ecd5b6cc4484017f308282277b930c006c69b
+|   |   |   |__c9
+|   |   |   |   |__96d4075747e877e495d237c5d3cefc81592bbf
+|   |   |   |__cb
+|   |   |   |   |__28b0e37c7d206feb564310fdeec0927af4123a
+|   |   |   |   |__c98d96e615256e40a83d97eac9f98bc2adb1a8
+|   |   |   |__d0
+|   |   |   |   |__b5faf85d4173e4bcecca5cc02e2e43ccd923bb
+|   |   |   |__d3
+|   |   |   |   |__7afbc808bea0f31a89b21aad808f8a3873e254
+|   |   |   |__d6
+|   |   |   |   |__0e967fd8b85cdfd1c899ad3fa7a800fd93a76b
+|   |   |   |__dc
+|   |   |   |   |__c9931593a75c4172f8eca1a91f05ab3e66c987
+|   |   |   |__e0
+|   |   |   |   |__5da1a7b73cbd6c90e8c400173071a878f01f81
+|   |   |   |   |__a013c10b6e6371c2e4b50d77c24040d857ce58
+|   |   |   |__e1
+|   |   |   |   |__4fea4aaba642d5c2a270430cdb6ed98cb0a920
+|   |   |   |   |__a98ef48c4de224519ad2ec186abcb8b6111074
+|   |   |   |__e2
+|   |   |   |   |__084c46a078db6852c7c204471e31bb5f6a65e6
+|   |   |   |   |__5fcffde2a0ca6682256f083f1a4929a9c9ba31
+|   |   |   |__e5
+|   |   |   |   |__200dd2421a9a30f6419496671c2902b7514296
+|   |   |   |__e6
+|   |   |   |   |__7000e8e1ec12d23ae40552dced89f36f7faa61
+|   |   |   |__e7
+|   |   |   |   |__0994601051e89b2e4a25545148d2a4b9e7fe09
+|   |   |   |__eb
+|   |   |   |   |__52f12322e15a89b259a0b4f30f00482b3df5db
+|   |   |   |__f7
+|   |   |   |   |__cef59fcbf19793b00387312c37fbabad4b64cd
+|   |   |   |__info
+|   |   |   |__pack
+|   |   |__refs
+|   |   |   |__heads
+|   |   |   |   |__master
+|   |   |   |__tags
+|   |__.gitignore
+|   |__.mvn
+|   |   |__wrapper
+|   |   |   |__maven-wrapper.jar
+|   |   |   |__maven-wrapper.properties
+|   |__.vscode
+|   |   |__NEWLY_CREATED_BY_SPRING_INITIALIZR
+|   |__assets
+|   |   |__store
+|   |   |   |__keylog.txt
+|   |   |   |__output.txt
+|   |   |   |__process.txt
+|   |   |   |__screenshot.png
+|   |__HELP.md
+|   |__lib
+|   |   |__javax.mail.jar
+|   |   |__mysql-connector-j-8.0.33.jar
+|   |   |__mysql-connector-java-8.0.30.jar
+|   |__mvnw
+|   |__mvnw.cmd
+|   |__pom.xml
+|   |__src
+|   |   |__main
+|   |   |   |__java
+|   |   |   |   |__com
+|   |   |   |   |   |__example
+|   |   |   |   |   |   |__server
+|   |   |   |   |   |   |   |__Announce
+|   |   |   |   |   |   |   |   |__Announce.java
+|   |   |   |   |   |   |   |__Config
+|   |   |   |   |   |   |   |   |__Jwt
+|   |   |   |   |   |   |   |   |   |__JwtResponse.java
+|   |   |   |   |   |   |   |   |   |__JwtService.java
+|   |   |   |   |   |   |   |   |__MethodRestConfig.java
+|   |   |   |   |   |   |   |__Email
+|   |   |   |   |   |   |   |   |__Email.java
+|   |   |   |   |   |   |   |   |__EmailController.java
+|   |   |   |   |   |   |   |   |__EmailService.java
+|   |   |   |   |   |   |   |   |__EmailServiceImpl.java
+|   |   |   |   |   |   |   |__Filter
+|   |   |   |   |   |   |   |   |__JwtFilter.java
+|   |   |   |   |   |   |   |__Function
+|   |   |   |   |   |   |   |   |__Files
+|   |   |   |   |   |   |   |   |   |__AllFiles.java
+|   |   |   |   |   |   |   |   |__KeyLog
+|   |   |   |   |   |   |   |   |   |__KeyLogRequest.java
+|   |   |   |   |   |   |   |   |__Lists
+|   |   |   |   |   |   |   |   |   |__PayloadRequest.java
+|   |   |   |   |   |   |   |   |   |__ProcessPC.java
+|   |   |   |   |   |   |   |__Role
+|   |   |   |   |   |   |   |   |__Role.java
+|   |   |   |   |   |   |   |   |__RoleRepository.java
+|   |   |   |   |   |   |   |__Security
+|   |   |   |   |   |   |   |   |__EndPointsConfig.java
+|   |   |   |   |   |   |   |   |__SecurityConfiguration.java
+|   |   |   |   |   |   |   |__ServerApplication.java
+|   |   |   |   |   |   |   |__User
+|   |   |   |   |   |   |   |   |__LoginRequest.java
+|   |   |   |   |   |   |   |   |__UserAccountService.java
+|   |   |   |   |   |   |   |   |__UserController.java
+|   |   |   |   |   |   |   |   |__UserInformation.java
+|   |   |   |   |   |   |   |   |__UserRepository.java
+|   |   |   |   |   |   |   |   |__UserService.java
+|   |   |   |   |   |   |   |   |__UserServiceImpl.java
+|   |   |   |__resources
+|   |   |   |   |__application.properties
+|   |   |   |   |__META-INF
+|   |   |   |   |   |__additional-spring-configuration-metadata.json
+|   |   |   |   |__static
+|   |   |   |   |__templates
+|   |   |__test
+|   |   |   |__java
+|   |   |   |   |__com
+|   |   |   |   |   |__example
+|   |   |   |   |   |   |__server
+|   |   |   |   |   |   |   |__ServerApplicationTests.java
+|   |__target
+|   |   |__classes
+|   |   |   |__application.properties
+|   |   |   |__com
+|   |   |   |   |__example
+|   |   |   |   |   |__server
+|   |   |   |   |   |   |__Announce
+|   |   |   |   |   |   |   |__Announce.class
+|   |   |   |   |   |   |__Config
+|   |   |   |   |   |   |   |__Jwt
+|   |   |   |   |   |   |   |   |__JwtResponse.class
+|   |   |   |   |   |   |   |   |__JwtService.class
+|   |   |   |   |   |   |   |__MethodRestConfig.class
+|   |   |   |   |   |   |__Email
+|   |   |   |   |   |   |   |__Email.class
+|   |   |   |   |   |   |   |__EmailController.class
+|   |   |   |   |   |   |   |__EmailService.class
+|   |   |   |   |   |   |   |__EmailServiceImpl$1.class
+|   |   |   |   |   |   |   |__EmailServiceImpl$2.class
+|   |   |   |   |   |   |   |__EmailServiceImpl$3.class
+|   |   |   |   |   |   |   |__EmailServiceImpl.class
+|   |   |   |   |   |   |__Filter
+|   |   |   |   |   |   |   |__JwtFilter.class
+|   |   |   |   |   |   |__Function
+|   |   |   |   |   |   |   |__Files
+|   |   |   |   |   |   |   |   |__AllFiles.class
+|   |   |   |   |   |   |   |__KeyLog
+|   |   |   |   |   |   |   |   |__KeyLogRequest.class
+|   |   |   |   |   |   |   |__Lists
+|   |   |   |   |   |   |   |   |__PayloadRequest.class
+|   |   |   |   |   |   |   |   |__ProcessPC.class
+|   |   |   |   |   |   |__Role
+|   |   |   |   |   |   |   |__Role.class
+|   |   |   |   |   |   |   |__RoleRepository.class
+|   |   |   |   |   |   |__Security
+|   |   |   |   |   |   |   |__EndPointsConfig.class
+|   |   |   |   |   |   |   |__SecurityConfiguration.class
+|   |   |   |   |   |   |__ServerApplication.class
+|   |   |   |   |   |   |__User
+|   |   |   |   |   |   |   |__LoginRequest.class
+|   |   |   |   |   |   |   |__UserAccountService.class
+|   |   |   |   |   |   |   |__UserController.class
+|   |   |   |   |   |   |   |__UserInformation.class
+|   |   |   |   |   |   |   |__UserRepository.class
+|   |   |   |   |   |   |   |__UserService.class
+|   |   |   |   |   |   |   |__UserServiceImpl.class
+|   |   |   |__META-INF
+|   |   |   |   |__additional-spring-configuration-metadata.json
+|   |   |__generated-sources
+|   |   |   |__annotations
+|   |   |__generated-test-sources
+|   |   |   |__test-annotations
+|   |   |__test-classes
+|   |   |   |__com
+|   |   |   |   |__example
+|   |   |   |   |   |__server
+|   |   |   |   |   |   |__ServerApplicationTests.class
